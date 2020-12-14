@@ -1,4 +1,4 @@
-package com.lkimilhol;
+package lkimilhol.minesweeper;
 
 import java.util.Random;
 
